@@ -1,1 +1,5 @@
 Our upcoming app will completely transform the notion of online purchasing. This software includes everything you need to buy remotely. You will order your items from the comfort of your own home, and they will be delivered to your door as quickly as possible. 
+Project functions: 1. Give access to customers to buy from any store.
+2. Avail them every present deal and offers online on the application.
+3. Provide an easy and elgant interface to use.
+4. Fast delivery service.
